@@ -121,8 +121,6 @@ IMAGEKIT_URL_ENDPOINT=your_imagekit_url_endpoint
 
 ## Repository
 
-## Repository
-
 [ResuMate AI GitHub Repository](https://github.com/harshitkumar-dev/ResuMate-AI)
 ---
 
