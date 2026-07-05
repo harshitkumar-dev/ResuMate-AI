@@ -14,6 +14,8 @@ ResuMate AI is an AI-powered resume builder that helps users create professional
 * Responsive and modern UI
 * Easy resume editing and customization
 * Secure user authentication and data handling
+* Can share Resume
+* Print to PDF
 
 ---
 
@@ -126,9 +128,7 @@ IMAGEKIT_URL_ENDPOINT=your_imagekit_url_endpoint
 
 ## Future Improvements
 
-* PDF resume export
 * More resume templates
-* Resume sharing feature
 * Dark mode support
 
 ---
