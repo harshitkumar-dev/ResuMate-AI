@@ -6,10 +6,7 @@ import ai from "../configs/ai.js";
 export const enhanceProfessionalSummary = async (req, res) => {
     try {
         const { userContent } = req.body;
-        console.log("MODEL:", process.env.OPENAI_MODEL)
-        console.log("BASE URL:", process.env.OPENAI_BASE_URL)
-        console.log("API KEY EXISTS:", !!process.env.OPENAI_API_KEY)
-        console.log("USER CONTENT:", userContent)
+
         if(!userContent){
             return res.status(400).json({message: 'Missing required fields'})
         }
